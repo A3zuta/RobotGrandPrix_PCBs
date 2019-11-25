@@ -1262,7 +1262,7 @@ U 1 1 5EBC6BD7
 P 1975 11350
 F 0 "U1" H 1975 11931 50  0000 C CNN
 F 1 "MAX3051" H 1975 11840 50  0000 C CNN
-F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 1975 11350 50  0001 C CIN
+F 2 "Package_SO:TSSOP-8_3x3mm_P0.65mm" H 1975 11350 50  0001 C CIN
 F 3 "http://datasheets.maximintegrated.com/en/ds/MAX3051.pdf" H 1975 11350 50  0001 C CNN
 	1    1975 11350
 	1    0    0    -1  
@@ -7930,4 +7930,30 @@ Wire Wire Line
 Connection ~ 10700 13225
 Wire Wire Line
 	10700 13225 10725 13225
+$Comp
+L Device:Jumper JP3
+U 1 1 5E02D870
+P 2900 12000
+F 0 "JP3" H 2900 12225 50  0000 C CNN
+F 1 "CAN_JP" H 2900 12150 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2900 12000 50  0001 C CNN
+F 3 "~" H 2900 12000 50  0001 C CNN
+	1    2900 12000
+	1    0    0    -1  
+$EndComp
+Text Label 2600 12000 2    50   ~ 0
+CAN_H
+$Comp
+L Device:R R10
+U 1 1 5E0337D1
+P 3350 12000
+F 0 "R10" V 3557 12000 50  0000 C CNN
+F 1 "120" V 3466 12000 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3280 12000 50  0001 C CNN
+F 3 "~" H 3350 12000 50  0001 C CNN
+	1    3350 12000
+	0    -1   -1   0   
+$EndComp
+Text Label 3500 12000 0    50   ~ 0
+CAN_L
 $EndSCHEMATC
