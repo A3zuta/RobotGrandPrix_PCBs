@@ -1,0 +1,238 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MCU_ST_STM32F4:STM32F446RETx U?
+U 1 1 5DE3469E
+P 3875 4800
+F 0 "U?" H 3875 2911 50  0000 C CNN
+F 1 "STM32F446RETx" H 3875 2820 50  0000 C CNN
+F 2 "Package_QFP:LQFP-64_10x10mm_P0.5mm" H 3275 3100 50  0001 R CNN
+F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00141306.pdf" H 3875 4800 50  0001 C CNN
+	1    3875 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5DE36D58
+P 3675 3100
+F 0 "#PWR?" H 3675 2950 50  0001 C CNN
+F 1 "+3.3V" H 3690 3273 50  0000 C CNN
+F 2 "" H 3675 3100 50  0001 C CNN
+F 3 "" H 3675 3100 50  0001 C CNN
+	1    3675 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3675 3100 3775 3100
+Connection ~ 3675 3100
+Connection ~ 3775 3100
+Wire Wire Line
+	3775 3100 3875 3100
+Connection ~ 3875 3100
+Wire Wire Line
+	3875 3100 3975 3100
+Connection ~ 3975 3100
+Wire Wire Line
+	3975 3100 4075 3100
+Connection ~ 4075 3100
+Wire Wire Line
+	4075 3100 4175 3100
+$Comp
+L Device:C C?
+U 1 1 5DE37410
+P 3300 2525
+F 0 "C?" H 3415 2571 50  0000 L CNN
+F 1 "4.7u" H 3415 2480 50  0000 L CNN
+F 2 "" H 3338 2375 50  0001 C CNN
+F 3 "~" H 3300 2525 50  0001 C CNN
+	1    3300 2525
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5DE3786A
+P 3650 2525
+F 0 "C?" H 3765 2571 50  0000 L CNN
+F 1 "0.1u" H 3765 2480 50  0000 L CNN
+F 2 "" H 3688 2375 50  0001 C CNN
+F 3 "~" H 3650 2525 50  0001 C CNN
+	1    3650 2525
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5DE37BC3
+P 4000 2525
+F 0 "C?" H 4115 2571 50  0000 L CNN
+F 1 "0.1u" H 4115 2480 50  0000 L CNN
+F 2 "" H 4038 2375 50  0001 C CNN
+F 3 "~" H 4000 2525 50  0001 C CNN
+	1    4000 2525
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5DE37E38
+P 4350 2525
+F 0 "C?" H 4465 2571 50  0000 L CNN
+F 1 "0.1u" H 4465 2480 50  0000 L CNN
+F 2 "" H 4388 2375 50  0001 C CNN
+F 3 "~" H 4350 2525 50  0001 C CNN
+	1    4350 2525
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5DE380F7
+P 4700 2525
+F 0 "C?" H 4815 2571 50  0000 L CNN
+F 1 "0.1u" H 4815 2480 50  0000 L CNN
+F 2 "" H 4738 2375 50  0001 C CNN
+F 3 "~" H 4700 2525 50  0001 C CNN
+	1    4700 2525
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5DE383B6
+P 5050 2525
+F 0 "C?" H 5165 2571 50  0000 L CNN
+F 1 "1u" H 5165 2480 50  0000 L CNN
+F 2 "" H 5088 2375 50  0001 C CNN
+F 3 "~" H 5050 2525 50  0001 C CNN
+	1    5050 2525
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5DE38715
+P 3300 2375
+F 0 "#PWR?" H 3300 2225 50  0001 C CNN
+F 1 "+3.3V" H 3315 2548 50  0000 C CNN
+F 2 "" H 3300 2375 50  0001 C CNN
+F 3 "" H 3300 2375 50  0001 C CNN
+	1    3300 2375
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 2375 3650 2375
+Connection ~ 3300 2375
+Connection ~ 3650 2375
+Wire Wire Line
+	3650 2375 4000 2375
+Connection ~ 4000 2375
+Wire Wire Line
+	4000 2375 4350 2375
+Connection ~ 4350 2375
+Wire Wire Line
+	4350 2375 4700 2375
+Connection ~ 4700 2375
+Wire Wire Line
+	4700 2375 5050 2375
+Wire Wire Line
+	5050 2675 4700 2675
+Connection ~ 3650 2675
+Wire Wire Line
+	3650 2675 3300 2675
+Connection ~ 4000 2675
+Wire Wire Line
+	4000 2675 3650 2675
+Connection ~ 4350 2675
+Wire Wire Line
+	4350 2675 4000 2675
+Connection ~ 4700 2675
+Wire Wire Line
+	4700 2675 4350 2675
+$Comp
+L power:GND #PWR?
+U 1 1 5DE3923F
+P 5050 2675
+F 0 "#PWR?" H 5050 2425 50  0001 C CNN
+F 1 "GND" H 5055 2502 50  0000 C CNN
+F 2 "" H 5050 2675 50  0001 C CNN
+F 3 "" H 5050 2675 50  0001 C CNN
+	1    5050 2675
+	1    0    0    -1  
+$EndComp
+Connection ~ 5050 2675
+$Comp
+L power:GND #PWR?
+U 1 1 5DE3943D
+P 4075 6600
+F 0 "#PWR?" H 4075 6350 50  0001 C CNN
+F 1 "GND" H 4080 6427 50  0000 C CNN
+F 2 "" H 4075 6600 50  0001 C CNN
+F 3 "" H 4075 6600 50  0001 C CNN
+	1    4075 6600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4075 6600 3975 6600
+Connection ~ 4075 6600
+Connection ~ 3775 6600
+Wire Wire Line
+	3775 6600 3675 6600
+Connection ~ 3875 6600
+Wire Wire Line
+	3875 6600 3775 6600
+Connection ~ 3975 6600
+Wire Wire Line
+	3975 6600 3875 6600
+$Comp
+L Device:C C?
+U 1 1 5DE39FFD
+P 3000 3850
+F 0 "C?" H 3115 3896 50  0000 L CNN
+F 1 "2.2u" H 3115 3805 50  0000 L CNN
+F 2 "" H 3038 3700 50  0001 C CNN
+F 3 "~" H 3000 3850 50  0001 C CNN
+	1    3000 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 3700 3175 3700
+$Comp
+L power:GND #PWR?
+U 1 1 5DE3AD75
+P 3000 4000
+F 0 "#PWR?" H 3000 3750 50  0001 C CNN
+F 1 "GND" H 3005 3827 50  0000 C CNN
+F 2 "" H 3000 4000 50  0001 C CNN
+F 3 "" H 3000 4000 50  0001 C CNN
+	1    3000 4000
+	1    0    0    -1  
+$EndComp
+Text Label 3175 3300 2    50   ~ 0
+~RST
+$Comp
+L Device:R R?
+U 1 1 5DE3B2AE
+P 2775 3650
+F 0 "R?" H 2845 3696 50  0000 L CNN
+F 1 "10k" H 2845 3605 50  0000 L CNN
+F 2 "" V 2705 3650 50  0001 C CNN
+F 3 "~" H 2775 3650 50  0001 C CNN
+	1    2775 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2775 3500 3175 3500
+Wire Wire Line
+	2775 3800 2775 4000
+Wire Wire Line
+	2775 4000 3000 4000
+Connection ~ 3000 4000
+$EndSCHEMATC
