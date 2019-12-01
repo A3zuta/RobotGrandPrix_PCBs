@@ -1,4 +1,4 @@
-16649730733605164
+16652880993242292
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49686,12 +49686,26 @@ ACS781
 7
 5
 Mizz_lib
+ACS785xCB
+
+
+0
+5
+5
+Mizz_lib
 ALLEGRO_ACS70331EESATR-005U3
 
 
 0
 12
 12
+Mizz_lib
+AQM0802
+
+
+0
+9
+9
 Mizz_lib
 AQM0802_BackLight
 
