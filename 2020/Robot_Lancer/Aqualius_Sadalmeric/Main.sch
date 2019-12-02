@@ -6052,12 +6052,6 @@ F 3 "" H 13300 13625 50  0001 C CNN
 	1    13300 13625
 	1    0    0    -1  
 $EndComp
-Text Label 12100 7675 0    50   ~ 0
-RED
-Text Label 12100 7775 0    50   ~ 0
-GREEN
-Text Label 12100 7875 0    50   ~ 0
-BLUE
 Text Label 2100 7675 2    50   ~ 0
 SW0
 Text Label 2100 7775 2    50   ~ 0
@@ -6228,8 +6222,6 @@ Text Label 2100 5275 2    50   ~ 0
 PA4_IO
 Text Label 12150 14150 2    50   ~ 0
 PB2_ROM_~WP
-Text Label 12100 4075 0    50   ~ 0
-PE10
 Text Label 12150 13750 2    50   ~ 0
 PE7_ROM_~CS
 Text Label 13050 13950 0    50   ~ 0
@@ -6252,14 +6244,6 @@ Text Label 12100 3075 0    50   ~ 0
 PE0_IO
 Text Label 12100 3175 0    50   ~ 0
 PE1_IO
-Text Label 12100 4275 0    50   ~ 0
-PE12_IO
-Text Label 12100 4575 0    50   ~ 0
-PE15_IO
-Text Label 2950 15350 2    50   ~ 0
-PE15_IO
-Text Label 2950 15250 2    50   ~ 0
-PE12_IO
 Text Label 2950 15050 2    50   ~ 0
 PE0_IO
 Text Label 2950 15150 2    50   ~ 0
@@ -8075,10 +8059,6 @@ F 3 "" H 750 13925 50  0001 C CNN
 $EndComp
 Text Label 1100 13325 2    50   ~ 0
 PE1_IO
-Text Label 1450 13325 2    50   ~ 0
-PE12_IO
-Text Label 1800 13325 2    50   ~ 0
-PE15_IO
 Text Label 2150 13325 2    50   ~ 0
 PA4_IO
 Text Label 2500 13325 2    50   ~ 0
@@ -8149,4 +8129,24 @@ F 3 "" H 11125 13325 50  0001 C CNN
 $EndComp
 Text GLabel 1275 850  0    50   Input ~ 0
 External_5V
+Text Label 1800 13325 2    50   ~ 0
+PE15_IO
+Text Label 1450 13325 2    50   ~ 0
+PE12_IO
+Text Label 2950 15350 2    50   ~ 0
+PE15_IO
+Text Label 2950 15250 2    50   ~ 0
+PE12_IO
+Text Label 12100 7875 0    50   ~ 0
+BLUE
+Text Label 12100 7775 0    50   ~ 0
+GREEN
+Text Label 12100 7675 0    50   ~ 0
+RED
+Text Label 12100 4075 0    50   ~ 0
+PE10
+Text Label 12100 4575 0    50   ~ 0
+PE15_IO
+Text Label 12100 4275 0    50   ~ 0
+PE12_IO
 $EndSCHEMATC
