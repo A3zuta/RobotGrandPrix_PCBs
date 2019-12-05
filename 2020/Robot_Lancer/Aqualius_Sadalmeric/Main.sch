@@ -1418,8 +1418,6 @@ F 3 "~" H 16500 775 50  0001 C CNN
 	1    16500 775 
 	1    0    0    -1  
 $EndComp
-Text GLabel 17225 825  0    50   Input ~ 0
-POWER_Batt
 $Comp
 L Device:Q_NMOS_GDS Q11
 U 1 1 5F00C964
@@ -6547,11 +6545,6 @@ Wire Wire Line
 Wire Wire Line
 	18425 1425 18300 1425
 Wire Wire Line
-	17225 825  17275 825 
-Wire Wire Line
-	17275 725  17275 825 
-Connection ~ 17275 825 
-Wire Wire Line
 	17575 2650 17575 2975
 Wire Wire Line
 	17575 2975 17625 2975
@@ -6640,17 +6633,6 @@ Wire Wire Line
 Wire Wire Line
 	16300 775  16500 775 
 Connection ~ 16500 775 
-$Comp
-L Device:D_Schottky_AKA D49
-U 1 1 5E4A3FBF
-P 17475 825
-F 0 "D49" H 17500 1106 50  0000 C CNN
-F 1 "SBR_DIODE" H 17500 1015 50  0000 C CNN
-F 2 "Diode_SMD:D_SMB_Modified" H 17475 825 50  0001 C CNN
-F 3 "~" H 17475 825 50  0001 C CNN
-	1    17475 825 
-	-1   0    0    -1  
-$EndComp
 Wire Wire Line
 	15350 1000 15800 1000
 Wire Wire Line
@@ -7733,7 +7715,6 @@ Wire Wire Line
 	17625 1125 17625 825 
 Wire Wire Line
 	17625 825  18425 825 
-Connection ~ 17625 825 
 Connection ~ 5975 14300
 Connection ~ 5975 15300
 Connection ~ 7900 15300
@@ -8149,4 +8130,29 @@ Text Label 12100 4575 0    50   ~ 0
 PE15_IO
 Text Label 12100 4275 0    50   ~ 0
 PE12_IO
+$Comp
+L power:+BATT #PWR0223
+U 1 1 5DEF531D
+P 17150 825
+F 0 "#PWR0223" H 17150 675 50  0001 C CNN
+F 1 "+BATT" H 17165 998 50  0000 C CNN
+F 2 "" H 17150 825 50  0001 C CNN
+F 3 "" H 17150 825 50  0001 C CNN
+	1    17150 825 
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D26
+U 1 1 5DF6A377
+P 17425 825
+F 0 "D26" H 17425 1090 50  0000 C CNN
+F 1 "DIODE" H 17425 999 50  0000 C CNN
+F 2 "Diode_SMD:D_SMA" H 17425 825 50  0001 C CNN
+F 3 "~" H 17425 825 50  0001 C CNN
+	1    17425 825 
+	1    0    0    -1  
+$EndComp
+Connection ~ 17625 825 
+Wire Wire Line
+	17150 825  17225 825 
 $EndSCHEMATC
