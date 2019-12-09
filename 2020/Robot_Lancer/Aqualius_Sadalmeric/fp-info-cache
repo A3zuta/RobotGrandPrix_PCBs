@@ -1,4 +1,4 @@
-16652880993242292
+16656034761819270
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49742,6 +49742,13 @@ AZ1086H
 4
 3
 Mizz_lib
+AloeSetMeal_Mask_50x5.8
+
+
+0
+0
+0
+Mizz_lib
 Amethyst_logo5x5.5_silk
 
 
@@ -50806,6 +50813,13 @@ USB USB_A
 6
 5
 Mizz_lib
+USB_A_Vertical
+USB A vertical female connector, right angle
+USB_A_Vertical female connector angled 73725-0110BLF
+0
+8
+5
+Mizz_lib
 USB_A_noSilk
 USB A connector
 USB USB_A
@@ -50929,7 +50943,7 @@ XA_4L
 
 
 0
-4
+5
 4
 Mizz_lib
 XA_4LC
