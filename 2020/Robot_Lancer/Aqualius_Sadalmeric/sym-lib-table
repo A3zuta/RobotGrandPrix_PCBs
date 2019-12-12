@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Main-rescue)(type Legacy)(uri ${KIPRJMOD}/Main-rescue.lib)(options "")(descr ""))
+  (lib (name DM3AT-SF-PEJM5)(type Legacy)(uri C:/Users/3Zuta/Downloads/DM3AT-SF-PEJM5/DM3AT-SF-PEJM5.lib)(options "")(descr ""))
 )
