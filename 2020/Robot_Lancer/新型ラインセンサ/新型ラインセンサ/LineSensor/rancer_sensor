@@ -1,0 +1,13 @@
+Reference Type, Quantity, Reference, Value, Footprint, Datasheet
+"C","2","C1,C2,","C","_local_TMD:C_Rect_L07.0_W3.5_P05.0",""
+"D","3","D1,D7,D5,","EBR33385","LEDs_:LED_D3.0mm",""
+"D","2","D2,D3,","LED","LEDs:LED_D3.0mm",""
+"D","3","D4,D8,D6,","TLN119","LEDs_:LED_D3.0mm",""
+"P","1","P1,","CONN_01X08","Connectors_JST:JST_XH_B08B-XH-A_08x2.50mm_Straight",""
+"P","3","P2,P4,P3,","VR-5k","_local_TMD:myVR",""
+"R","2","R6,R9,","100","_local_TMD:myR",""
+"R","2","R8,R11,","1K","_local_TMD:myR",""
+"R","3","R1,R3,R2,","1k","_local_TMD:myR",""
+"R","5","R7,R10,R4,R5,R12,","10k","_local_TMD:myR",""
+"U","2","U2,U3,","QRE1113","_local_TMD:QRE1113",""
+"U","3","U1,U5,U4,","S7136","_local_TMD:S7136",""

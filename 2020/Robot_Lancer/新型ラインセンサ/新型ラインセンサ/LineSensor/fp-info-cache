@@ -1,0 +1,1121 @@
+233108753906528
+_local_TMD
+AE-AQM0802
+
+
+0
+5
+5
+_local_TMD
+AE-RN42
+
+
+0
+24
+24
+_local_TMD
+BZ
+
+
+0
+2
+2
+_local_TMD
+Choke_Horizontal_RM5mm
+Choke, Axial, 5mm
+Choke, Axial, 5mm
+0
+2
+2
+_local_TMD
+Choke_Horizontal_RM10mm
+Choke, Axial, 10mm
+Choke, Axial, 10mm
+0
+2
+2
+_local_TMD
+Choke_Horizontal_RM15mm
+Choke, Axial, 15mm
+Choke, Axial, 15mm
+0
+2
+2
+_local_TMD
+Choke_Horizontal_RM20mm
+Choke, Axial, 20mm,
+Choke, Axial, 20mm,
+0
+2
+2
+_local_TMD
+Crystal_16MHz
+
+
+0
+2
+2
+_local_TMD
+C_Axial_D10.3_L19.9_P28.0
+X363.pdf (ASC)
+Capacitor Polypropylene
+0
+2
+2
+_local_TMD
+C_Axial_D20.5_L34.1_P48.0
+X335.pdf (ASC)
+Capacitor Polypropylene
+0
+2
+2
+_local_TMD
+C_EDLC_Disc_D7.0_P1.5
+DCK-3R3E224-E.pdf (ELNA)
+Capacitor EDLC DC DCK
+0
+2
+2
+_local_TMD
+C_Radial_D06.3_L11.0_P2.5
+nichicon_ES_Series.pdf (Nichicon)
+Capacitor Electrolytic
+0
+2
+2
+_local_TMD
+C_Radial_D08.0_L11.5_P3.5
+nichicon_FG_Series.pdf (Nichicon)
+Capacitor Electrolytic
+0
+2
+2
+_local_TMD
+C_Radial_D10.0_L13.0_P5.0
+OS-CON_sepc.pdf (Panasonic)
+Capacitor Electrolytic
+0
+2
+2
+_local_TMD
+C_Radial_D12.5_L20.0_P5.0
+nichicon_FG_Series.pdf (Nichicon)
+Capacitor Electrolytic
+0
+2
+2
+_local_TMD
+C_Rect_L06.5_W4.0_P03.5
+p82_UPZ.pdf (Toshin)
+Capacitor Polypropylene
+0
+2
+2
+_local_TMD
+C_Rect_L07.0_W3.5_P05.0
+NISSEI_AMZ.pdf (Nissei)
+Capacitor Polyester
+0
+2
+2
+_local_TMD
+C_Rect_L07.5_W4.5_P05.0
+p82_UPZ.pdf (Toshin)
+Capacitor Polypropylene
+0
+2
+2
+_local_TMD
+C_Rect_L09.5_W4.5_P04.0
+DMj.pdf (Soshin)
+Capacitor Mica DM10
+0
+2
+2
+_local_TMD
+C_Rect_L11.0_W7.0_P07.5
+p82_UPZ.pdf (Toshin)
+Capacitor Polypropylene
+0
+2
+2
+_local_TMD
+C_Rect_L11.9_W5.3_P06.0
+DMj.pdf (Soshin)
+Capacitor Mica DM15
+0
+2
+2
+_local_TMD
+C_Rect_L12.0_W7.5_P07.5
+p82_UPZ.pdf (Toshin)
+Capacitor Polypropylene
+0
+2
+2
+_local_TMD
+C_Rect_L14.0_W8.0_P10.0
+f2d_series.pdf (Rubycon)
+Capacitor Polyester
+0
+2
+2
+_local_TMD
+C_Rect_L17.0_W6.0_P09.0
+DMj.pdf (Soshin)
+Capacitor Mica DM19
+0
+2
+2
+_local_TMD
+D_DO-15
+sb340ls.pdf (Panjit)
+Diode DO-15
+0
+2
+2
+_local_TMD
+D_DO-41
+sb240les.pdf (Panjit)
+Diode DO-41
+0
+2
+2
+_local_TMD
+D_R-1_Panjit
+1Sx.pdf (Panjit)
+Diode R-1 1S
+0
+2
+2
+_local_TMD
+F_PolySwitch_RUEF-Series
+0900766b80658a50.pdf (Raychem)
+PolySwitch
+0
+2
+2
+_local_TMD
+IC_DIP-08_300_ELL
+DIP8_J.pdf (JRC)
+IC DIP8
+0
+8
+8
+_local_TMD
+IC_DIP-14_300_ELL
+DIP14_J.pdf (JRC)
+IC DIP14
+0
+14
+14
+_local_TMD
+IC_DIP-16_300_ELL
+DIP16_J.pdf (JRC)
+IC DIP16
+0
+16
+16
+_local_TMD
+IC_DIP-18_300_ELL
+AE-ESP-WROOM-02.pdf
+IC DIP18
+0
+18
+18
+_local_TMD
+IC_DIP-24_600_ELL
+j24p4.pdf (Renesas)
+IC DIP24 600mil
+0
+24
+24
+_local_TMD
+IC_SIP-07
+MCW03.pdf (MINMAX)
+IC Module SIP7 MCW03
+0
+7
+7
+_local_TMD
+IC_SIP-08
+SIP8_J.pdf (JRC)
+IC SIP8
+0
+8
+8
+_local_TMD
+J_DC-JACK_2DC-0005X100
+2DC-0005X100_CUS_T1.pdf (Singatron)
+JACK DC 2.1mm 2DC-0005X100
+0
+3
+3
+_local_TMD
+J_DC-JACK_2DC-G213-D42
+2DC-G213-D42.pdf (Singatron)
+JACK DC 2.1mm 2DC-G213-D42
+0
+4
+2
+_local_TMD
+J_DC-JACK_18742
+18742.pdf (4UCON)
+JACK DC 2.1mm 18742
+0
+3
+3
+_local_TMD
+J_DC-JACK_MJ-179P
+DC2.1-2.5.pdf (Marushin)
+JACK DC 2.1mm MJ-179PH
+0
+3
+3
+_local_TMD
+J_Phone-Mini_JACK_AJ-1780.pdf
+AJ-1780.pdf (Ultimax)
+JACK Phone-Mini 3.5mm AJ-1780
+0
+5
+5
+_local_TMD
+J_RCA
+RJ-2410N.pdf (ULTIMAX)
+JACK RCA
+0
+2
+2
+_local_TMD
+J_RJ45
+7810-XPXC(P0041).pdf (Neltron)
+RJ45
+0
+8
+8
+_local_TMD
+J_RJ45_TRANS_LED
+J0011D21BNL.pdf (Pulse)
+RJ45
+0
+16
+14
+_local_TMD
+J_TOSLINK_RX_PLR135
+plr135tdatasheet.pdf (EVERLIGHT)
+TOSLINK RX PLR135/T 
+0
+3
+3
+_local_TMD
+J_TOSLINK_TX_PLT133
+plt133tdatasheet.pdf (EVERLIGHT)
+TOSLINK TX PLT133/T
+0
+3
+3
+_local_TMD
+J_USB-B
+USB-4BF103BS.pdf (Useconn)
+USB
+0
+6
+6
+_local_TMD
+J_XLR3MC
+Drawing+NC3MAH.pdf (Neutrik)
+XLR 3MC
+0
+5
+4
+_local_TMD
+my7805
+
+
+0
+3
+3
+_local_TMD
+myR
+
+
+0
+2
+2
+_local_TMD
+myVR
+
+
+0
+3
+3
+_local_TMD
+PHIR_REFRECT
+
+
+0
+4
+4
+_local_TMD
+QRE1113
+
+
+0
+4
+4
+_local_TMD
+Q_TO-92
+TO-92
+TO-92 Transistor
+0
+3
+3
+_local_TMD
+Q_TO-220
+prss0003ae_a.pdf (Renesas)
+TO220
+0
+3
+3
+_local_TMD
+Q_TO-220_HS
+prss0003ae_a.pdf (Renesas)
+TO220
+0
+5
+5
+_local_TMD
+R_Resistor_Horizontal_RM10mm
+mb_vg06.pdf (Vishay)
+Resistor Axial L6.3
+0
+2
+2
+_local_TMD
+R_Trimmer_GF63P
+GF063_Series.pdf (TOCOS)
+Resistor Potentiometer Trimmer Cermet GF63P
+0
+3
+3
+_local_TMD
+S7136
+
+
+0
+4
+4
+_local_TMD
+SW_DIP-08_W7.6mm
+8-lead dip package, spacing 7.6 mm
+dip-sw 2.54 7.6
+0
+8
+8
+_local_TMD
+SW_DIP-10_W7.6mm
+10-lead dip package, spacing 7.6 mm
+dip-sw 2.54 7.6
+0
+10
+10
+_local_TMD
+SW_DIP-16_W7.6mm
+16-lead dip package, spacing 7.6 mm
+dip-sw 2.54 7.6
+0
+16
+16
+_local_TMD
+SW_Slide_DPDT_Angled
+slide_M.pdf (NKK)
+Switch DPDT Slide NKK
+0
+6
+6
+_local_TMD
+SW_Slide_SPDT_Angled
+slide_M.pdf (NKK)
+Switch SPDT Slide NKK
+0
+3
+3
+_local_TMD
+SW_Tactile_6x6mm
+DTS-6-V.pdf (COSLAND)
+SWITCH Tactile 6x6mm
+0
+4
+2
+_local_TMD
+TB6643KQ
+
+
+0
+7
+7
+_local_TMD
+TC74VHC273(DIP)
+
+
+0
+20
+20
+_local_TMD
+T_Pulse_Transformer-DA101C
+kmp_da100.pdf (Murata)
+Transformer Pulse DA101C
+0
+4
+4
+_local_TMD
+U_12071-LT3471
+lt3471-manual.pdf (Strawberry Linux)
+Module Power 12071 LT3471
+0
+8
+8
+_local_TMD
+U_MCWI03-xx
+MCWI03-12x.pdf (Minmax)
+Module Power DC-DC Converter MCWI03
+0
+7
+7
+_local_TMD
+U_MIWI06-xx
+MIWI06-24x.pdf (Minmax)
+Module Power DC-DC Converter MIWI06
+0
+8
+8
+_local_TMD
+X_Pin_Header_Straight_1x01
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x01 P2.54
+0
+1
+1
+_local_TMD
+X_Pin_Header_Straight_1x02
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x02 P2.54
+0
+2
+2
+_local_TMD
+X_Pin_Header_Straight_1x03
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x03 P2.54
+0
+3
+3
+_local_TMD
+X_Pin_Header_Straight_1x04
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x04 P2.54
+0
+4
+4
+_local_TMD
+X_Pin_Header_Straight_1x05
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x05 P2.54
+0
+5
+5
+_local_TMD
+X_Pin_Header_Straight_1x06
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x06 P2.54
+0
+6
+6
+_local_TMD
+X_Pin_Header_Straight_1x07
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x07 P2.54
+0
+7
+7
+_local_TMD
+X_Pin_Header_Straight_1x08
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x08 P2.54
+0
+8
+8
+_local_TMD
+X_Pin_Header_Straight_1x09
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x09 P2.54
+0
+9
+9
+_local_TMD
+X_Pin_Header_Straight_1x10
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x10 P2.54
+0
+10
+10
+_local_TMD
+X_Pin_Header_Straight_1x11
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x11 P2.54
+0
+11
+11
+_local_TMD
+X_Pin_Header_Straight_1x12
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x12 P2.54
+0
+12
+12
+_local_TMD
+X_Pin_Header_Straight_1x13
+PH-2xXXSG-AD.pdf (Useconn)
+pin header
+0
+13
+13
+_local_TMD
+X_Pin_Header_Straight_1x14
+PH-2xXXSG-AD.pdf (Useconn)
+pin header
+0
+14
+14
+_local_TMD
+X_Pin_Header_Straight_1x15
+PH-2xXXSG-AD.pdf (Useconn)
+pin header
+0
+15
+15
+_local_TMD
+X_Pin_Header_Straight_1x16
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x16 P2.54
+0
+16
+16
+_local_TMD
+X_Pin_Header_Straight_1x17
+PH-2xXXSG-AD.pdf (Useconn)
+pin header
+0
+17
+17
+_local_TMD
+X_Pin_Header_Straight_1x18
+PH-2xXXSG-AD.pdf (Useconn)
+pin header
+0
+18
+18
+_local_TMD
+X_Pin_Header_Straight_1x19
+PH-2xXXSG-AD.pdf (Useconn)
+pin header
+0
+19
+19
+_local_TMD
+X_Pin_Header_Straight_1x20
+PH-1xXXSG-AD.pdf (Useconn)
+Pin-Header 1x20 P2.54
+0
+20
+20
+_local_TMD
+X_Pin_Header_Straight_2x01
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x01 P2.54
+0
+2
+2
+_local_TMD
+X_Pin_Header_Straight_2x02
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x02 P2.54
+0
+4
+4
+_local_TMD
+X_Pin_Header_Straight_2x03
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x03 P2.54
+0
+6
+6
+_local_TMD
+X_Pin_Header_Straight_2x04
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x04 P2.54
+0
+8
+8
+_local_TMD
+X_Pin_Header_Straight_2x05
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x05 P2.54
+0
+10
+10
+_local_TMD
+X_Pin_Header_Straight_2x06
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x06 P2.54
+0
+12
+12
+_local_TMD
+X_Pin_Header_Straight_2x07
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x07 P2.54
+0
+14
+14
+_local_TMD
+X_Pin_Header_Straight_2x08
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x08 P2.54
+0
+16
+16
+_local_TMD
+X_Pin_Header_Straight_2x09
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x09 P2.54
+0
+18
+18
+_local_TMD
+X_Pin_Header_Straight_2x10
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x10 P2.54
+0
+20
+20
+_local_TMD
+X_Pin_Header_Straight_2x11
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x11 P2.54
+0
+22
+22
+_local_TMD
+X_Pin_Header_Straight_2x12
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x12 P2.54
+0
+24
+24
+_local_TMD
+X_Pin_Header_Straight_2x13
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x13 P2.54
+0
+26
+26
+_local_TMD
+X_Pin_Header_Straight_2x14
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x14 P2.54
+0
+28
+28
+_local_TMD
+X_Pin_Header_Straight_2x15
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x15 P2.54
+0
+30
+30
+_local_TMD
+X_Pin_Header_Straight_2x16
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x16 P2.54
+0
+32
+32
+_local_TMD
+X_Pin_Header_Straight_2x17
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x17 P2.54
+0
+34
+34
+_local_TMD
+X_Pin_Header_Straight_2x18
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x18 P2.54
+0
+36
+36
+_local_TMD
+X_Pin_Header_Straight_2x19
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x19 P2.54
+0
+38
+38
+_local_TMD
+X_Pin_Header_Straight_2x20
+PH-2xXXSG-AD.pdf (Useconn)
+Pin-Header 2x20 P2.54
+0
+40
+40
+_local_TMD
+X_Socket_IC_DIP-08_300_ELL
+0900766b80e0c2fc.pdf (Preci-Dip)
+SocketI IC DIP8
+0
+8
+8
+_local_TMD
+X_Socket_IC_DIP-14_300_ELL
+0900766b80e0c2fc.pdf (Preci-Dip)
+Socket IC DIP14
+0
+14
+14
+_local_TMD
+X_Socket_IC_DIP-16_300_ELL
+0900766b80e0c2fc.pdf (Preci-Dip)
+Socket IC DIP16
+0
+16
+16
+_local_TMD
+X_Socket_Strip_Straight_1x01
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x01 P2.54
+0
+1
+1
+_local_TMD
+X_Socket_Strip_Straight_1x02
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x02 P2.54
+0
+2
+2
+_local_TMD
+X_Socket_Strip_Straight_1x03
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x03 P2.54
+0
+3
+3
+_local_TMD
+X_Socket_Strip_Straight_1x04
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x04 P2.54
+0
+4
+4
+_local_TMD
+X_Socket_Strip_Straight_1x05
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x05 P2.54
+0
+5
+5
+_local_TMD
+X_Socket_Strip_Straight_1x06
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x06 P2.54
+0
+6
+6
+_local_TMD
+X_Socket_Strip_Straight_1x07
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x07 P2.54
+0
+7
+7
+_local_TMD
+X_Socket_Strip_Straight_1x08
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x08 P2.54
+0
+8
+8
+_local_TMD
+X_Socket_Strip_Straight_1x09
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x09 P2.54
+0
+9
+9
+_local_TMD
+X_Socket_Strip_Straight_1x10
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x10 P2.54
+0
+10
+10
+_local_TMD
+X_Socket_Strip_Straight_1x11
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x11 P2.54
+0
+11
+11
+_local_TMD
+X_Socket_Strip_Straight_1x12
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x12 P2.54
+0
+12
+12
+_local_TMD
+X_Socket_Strip_Straight_1x13
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x13 P2.54
+0
+13
+13
+_local_TMD
+X_Socket_Strip_Straight_1x14
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x14 P2.54
+0
+14
+14
+_local_TMD
+X_Socket_Strip_Straight_1x15
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x15 P2.54
+0
+15
+15
+_local_TMD
+X_Socket_Strip_Straight_1x16
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x16 P2.54
+0
+16
+16
+_local_TMD
+X_Socket_Strip_Straight_1x17
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x17 P2.54
+0
+17
+17
+_local_TMD
+X_Socket_Strip_Straight_1x18
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x18 P2.54
+0
+18
+18
+_local_TMD
+X_Socket_Strip_Straight_1x19
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x19 P2.54
+0
+19
+19
+_local_TMD
+X_Socket_Strip_Straight_1x20
+FH-1X00SG.pdf (Useconn)
+Socket-Strip 1x20 P2.54
+0
+20
+20
+_local_TMD
+X_Socket_Strip_Straight_2x01
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x01 P2.54
+0
+2
+2
+_local_TMD
+X_Socket_Strip_Straight_2x02
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x02 P2.54
+0
+4
+4
+_local_TMD
+X_Socket_Strip_Straight_2x03
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x03 P2.54
+0
+6
+6
+_local_TMD
+X_Socket_Strip_Straight_2x04
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x04 P2.54
+0
+8
+8
+_local_TMD
+X_Socket_Strip_Straight_2x05
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x05 P2.54
+0
+10
+10
+_local_TMD
+X_Socket_Strip_Straight_2x06
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x06 P2.54
+0
+12
+12
+_local_TMD
+X_Socket_Strip_Straight_2x07
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x07 P2.54
+0
+14
+14
+_local_TMD
+X_Socket_Strip_Straight_2x08
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x08 P2.54
+0
+16
+16
+_local_TMD
+X_Socket_Strip_Straight_2x09
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x09 P2.54
+0
+18
+18
+_local_TMD
+X_Socket_Strip_Straight_2x10
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x10 P2.54
+0
+20
+20
+_local_TMD
+X_Socket_Strip_Straight_2x11
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x11 P2.54
+0
+22
+22
+_local_TMD
+X_Socket_Strip_Straight_2x12
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x12 P2.54
+0
+24
+24
+_local_TMD
+X_Socket_Strip_Straight_2x13
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x13 P2.54
+0
+26
+26
+_local_TMD
+X_Socket_Strip_Straight_2x14
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x14 P2.54
+0
+28
+28
+_local_TMD
+X_Socket_Strip_Straight_2x15
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x15 P2.54
+0
+30
+30
+_local_TMD
+X_Socket_Strip_Straight_2x16
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x16 P2.54
+0
+32
+32
+_local_TMD
+X_Socket_Strip_Straight_2x17
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x17 P2.54
+0
+34
+34
+_local_TMD
+X_Socket_Strip_Straight_2x18
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x18 P2.54
+0
+36
+36
+_local_TMD
+X_Socket_Strip_Straight_2x19
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x19 P2.54
+0
+38
+38
+_local_TMD
+X_Socket_Strip_Straight_2x20
+FH-2X00SG.pdf (Useconn)
+Socket-Strip 2x20 P2.54
+0
+40
+40
+_local_TMD
+X_TestPad_1x01
+
+Test-Pad 1x01 P2.54
+0
+1
+1
+_local_TMD
+X_TestPin_1x01
+PH-1xXXSG-AD.pdf (Useconn)
+Test-Pin 1x01 P2.54
+0
+1
+1
+_local_TMD
+Y_Crystal-Oscillator_SG-8002DC
+SG-8002DC.pdf (EPSON)
+Oscillator Crystal SG-8002DC
+0
+4
+4
+_local_TMD
+Y_Crystal_HC48
+hus.pdf (Mercury)
+Crystal Quarz HC48
+0
+2
+2
+_local_TMD
+Y_Crystal_P1.5mm
+VT-200F.pdf (Seiko)
+Crystal Quarz Round P1.5
+0
+2
+2
+_local_TMD
+Z_MountHole_M3
+
+
+0
+0
+0
+_local_TMD
+Z_ThruHole_M3
+
+
+0
+1
+0
