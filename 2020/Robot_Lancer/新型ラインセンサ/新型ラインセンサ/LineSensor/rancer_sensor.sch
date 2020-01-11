@@ -17,23 +17,23 @@ $EndDescr
 $Comp
 L power:+5V #PWR03
 U 1 1 5C5036D6
-P 1750 3275
-F 0 "#PWR03" H 1750 3125 50  0001 C CNN
-F 1 "+5V" H 1750 3415 50  0000 C CNN
-F 2 "" H 1750 3275 50  0000 C CNN
-F 3 "" H 1750 3275 50  0000 C CNN
-	1    1750 3275
+P 1750 3175
+F 0 "#PWR03" H 1750 3025 50  0001 C CNN
+F 1 "+5V" H 1750 3315 50  0000 C CNN
+F 2 "" H 1750 3175 50  0000 C CNN
+F 3 "" H 1750 3175 50  0000 C CNN
+	1    1750 3175
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR04
 U 1 1 5C5036EA
-P 2075 3375
-F 0 "#PWR04" H 2075 3125 50  0001 C CNN
-F 1 "GND" H 2075 3225 50  0000 C CNN
-F 2 "" H 2075 3375 50  0000 C CNN
-F 3 "" H 2075 3375 50  0000 C CNN
-	1    2075 3375
+P 2075 3275
+F 0 "#PWR04" H 2075 3025 50  0001 C CNN
+F 1 "GND" H 2075 3125 50  0000 C CNN
+F 2 "" H 2075 3275 50  0000 C CNN
+F 3 "" H 2075 3275 50  0000 C CNN
+	1    2075 3275
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -47,9 +47,9 @@ F 3 "" H 1550 3525 50  0000 C CNN
 	1    1550 3525
 	-1   0    0    -1  
 $EndComp
-Text Label 1750 3575 0    60   ~ 0
+Text Label 1750 3475 0    60   ~ 0
 AN_1
-Text Label 1750 3875 0    60   ~ 0
+Text Label 1750 3775 0    60   ~ 0
 AN_2
 $Comp
 L power:PWR_FLAG #FLG01
@@ -224,7 +224,7 @@ F 3 "" H 4675 3100 50  0000 C CNN
 	1    4675 3100
 	1    0    0    -1  
 $EndComp
-Text Label 5025 3650 0    60   ~ 0
+Text Label 5075 3975 0    60   ~ 0
 AN_1
 Wire Wire Line
 	4025 3500 4025 3650
@@ -365,7 +365,7 @@ Wire Wire Line
 Wire Wire Line
 	8150 3675 8350 3675
 Connection ~ 8350 3675
-Text Label 8500 3675 0    60   ~ 0
+Text Label 8550 4000 0    60   ~ 0
 AN_2
 $Comp
 L rancer_sensor-rescue:S7136 U1
@@ -573,11 +573,11 @@ F 3 "" H 9250 3725 50  0000 C CNN
 $EndComp
 Wire Wire Line
 	9250 3925 9250 4650
-Text Label 1750 3475 0    60   ~ 0
+Text Label 1750 3375 0    60   ~ 0
 DB_L
-Text Label 1750 3775 0    60   ~ 0
-DB_R
 Text Label 1750 3675 0    60   ~ 0
+DB_R
+Text Label 1750 3575 0    60   ~ 0
 DB_CENTER
 $Comp
 L rancer_sensor-rescue:S7136 U4
@@ -868,11 +868,7 @@ Wire Notes Line
 Text Notes 9325 5025 0    50   ~ 0
 DIGITAL_RIGHT
 Wire Notes Line
-	3825 2750 3825 4150
-Wire Notes Line
-	3825 4150 5350 4150
-Wire Notes Line
-	5350 4150 5350 2750
+	3825 4575 5350 4575
 Wire Notes Line
 	3825 2750 5350 2750
 Text Notes 4350 4125 0    50   ~ 0
@@ -880,11 +876,7 @@ ANALOG_LEFT
 Connection ~ 4675 2950
 Connection ~ 4675 3650
 Wire Notes Line
-	8800 2750 8800 4150
-Wire Notes Line
-	8800 4150 7150 4150
-Wire Notes Line
-	7150 4150 7150 2750
+	8800 4575 7150 4575
 Wire Notes Line
 	7150 2750 8800 2750
 Text Notes 7700 4125 0    50   ~ 0
@@ -894,16 +886,93 @@ Connection ~ 8150 3675
 Connection ~ 1750 4325
 Connection ~ 1750 4925
 Wire Wire Line
-	2075 3375 1750 3375
+	2075 3275 1750 3275
 $Comp
-L power:+3.3V #PWR?
-U 1 1 5E149DB0
-P 1750 3175
-F 0 "#PWR?" H 1750 3025 50  0001 C CNN
-F 1 "+3.3V" H 1765 3348 50  0000 C CNN
-F 2 "" H 1750 3175 50  0001 C CNN
-F 3 "" H 1750 3175 50  0001 C CNN
-	1    1750 3175
+L Device:R R15
+U 1 1 5E18896D
+P 8500 3825
+F 0 "R15" V 8575 3825 50  0000 C CNN
+F 1 "4.7k" V 8500 3825 50  0000 C CNN
+F 2 "Mizz_lib:1608_WP" V 8430 3825 50  0001 C CNN
+F 3 "~" H 8500 3825 50  0001 C CNN
+	1    8500 3825
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R16
+U 1 1 5E189230
+P 8500 4175
+F 0 "R16" V 8575 4175 50  0000 C CNN
+F 1 "10k" V 8500 4175 50  0000 C CNN
+F 2 "Mizz_lib:1608_WP" V 8430 4175 50  0001 C CNN
+F 3 "~" H 8500 4175 50  0001 C CNN
+	1    8500 4175
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8550 4000 8500 4000
+Wire Wire Line
+	8500 4000 8500 3975
+Wire Wire Line
+	8500 4000 8500 4025
+Connection ~ 8500 4000
+$Comp
+L power:GND #PWR0102
+U 1 1 5E18CFC3
+P 8500 4325
+F 0 "#PWR0102" H 8500 4075 50  0001 C CNN
+F 1 "GND" H 8500 4175 50  0000 C CNN
+F 2 "" H 8500 4325 50  0000 C CNN
+F 3 "" H 8500 4325 50  0000 C CNN
+	1    8500 4325
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	7150 2750 7150 4575
+Wire Notes Line
+	8800 4575 8800 2750
+Wire Notes Line
+	5350 2750 5350 4575
+Wire Notes Line
+	3825 4575 3825 2750
+$Comp
+L Device:R R13
+U 1 1 5E1947A4
+P 5025 3800
+F 0 "R13" V 5100 3800 50  0000 C CNN
+F 1 "4.7k" V 5025 3800 50  0000 C CNN
+F 2 "Mizz_lib:1608_WP" V 4955 3800 50  0001 C CNN
+F 3 "~" H 5025 3800 50  0001 C CNN
+	1    5025 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R14
+U 1 1 5E1947AE
+P 5025 4150
+F 0 "R14" V 5100 4150 50  0000 C CNN
+F 1 "10k" V 5025 4150 50  0000 C CNN
+F 2 "Mizz_lib:1608_WP" V 4955 4150 50  0001 C CNN
+F 3 "~" H 5025 4150 50  0001 C CNN
+	1    5025 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5075 3975 5025 3975
+Wire Wire Line
+	5025 3975 5025 3950
+Wire Wire Line
+	5025 3975 5025 4000
+Connection ~ 5025 3975
+$Comp
+L power:GND #PWR0103
+U 1 1 5E1947BC
+P 5025 4300
+F 0 "#PWR0103" H 5025 4050 50  0001 C CNN
+F 1 "GND" H 5025 4150 50  0000 C CNN
+F 2 "" H 5025 4300 50  0000 C CNN
+F 3 "" H 5025 4300 50  0000 C CNN
+	1    5025 4300
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
