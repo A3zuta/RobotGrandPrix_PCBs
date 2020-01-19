@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\3Zuta\OneDrive\デスクトップ\RobotGrandPrix\2020\Robot_Lancer\アロエ定食\Aloe_Set_Meal.sch)
-    (date "2020/01/17 3:56:26")
+    (date "2020/01/20 2:24:18")
     (tool "Eeschema (5.1.4)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -2418,10 +2418,10 @@
       (node (ref U4) (pin 3)))
     (net (code 6) (name /ADRESS2)
       (node (ref U4) (pin 4))
-      (node (ref U3) (pin 56)))
-    (net (code 7) (name /ADRESS3)
-      (node (ref U4) (pin 6))
       (node (ref U3) (pin 57)))
+    (net (code 7) (name /ADRESS3)
+      (node (ref U3) (pin 56))
+      (node (ref U4) (pin 6)))
     (net (code 8) (name /SW1)
       (node (ref U3) (pin 28))
       (node (ref SW3) (pin 2))

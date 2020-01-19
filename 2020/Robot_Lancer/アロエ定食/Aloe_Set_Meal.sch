@@ -4317,9 +4317,9 @@ ENC_CH1
 Text Label 3975 4075 0    50   ~ 0
 ENC_CH2
 Text Label 3975 5575 0    50   ~ 0
-ADRESS3
-Text Label 3975 5475 0    50   ~ 0
 ADRESS2
+Text Label 3975 5475 0    50   ~ 0
+ADRESS3
 Text Label 3975 5375 0    50   ~ 0
 ADRESS1
 Text Label 2575 4775 2    50   ~ 0
