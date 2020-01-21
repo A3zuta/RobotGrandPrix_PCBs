@@ -3862,7 +3862,7 @@ F 3 "" H 8975 13400 50  0001 C CNN
 	1    8975 13400
 	1    0    0    -1  
 $EndComp
-Text Label 2575 6475 2    50   ~ 0
+Text Label 3975 4575 0    50   ~ 0
 EMG_IO
 $Comp
 L Miz:SW_ROTARY_16 U4
@@ -3949,7 +3949,7 @@ Text Label 3975 3775 0    50   ~ 0
 ADC5
 Text Label 2575 5375 2    50   ~ 0
 ADC7
-Text Notes 1275 6475 0    50   ~ 0
+Text Notes 5350 4575 2    50   ~ 0
 EMG is HIGH -> EMG OFF
 $Comp
 L Device:R R13
@@ -4041,16 +4041,12 @@ Wire Wire Line
 Connection ~ 21650 10925
 Wire Wire Line
 	21650 10925 21725 10925
-Text Label 3975 4175 0    50   ~ 0
-Motor0_PWM
-Text Label 3975 4275 0    50   ~ 0
-Motor1_PWM
 Text Label 3975 4375 0    50   ~ 0
-Motor2_PWM
-Text Label 3975 4475 0    50   ~ 0
 Motor3_PWM
+Text Label 3975 4475 0    50   ~ 0
+Motor2_PWM
 Text Label 3975 5675 0    50   ~ 0
-Motor4_PWM
+Motor1_PWM
 Connection ~ 21825 6925
 Wire Wire Line
 	21625 6325 21825 6325
@@ -4316,14 +4312,12 @@ Text Label 3975 3975 0    50   ~ 0
 ENC_CH1
 Text Label 3975 4075 0    50   ~ 0
 ENC_CH2
-Text Label 3975 5575 0    50   ~ 0
-ADRESS2
 Text Label 3975 5475 0    50   ~ 0
-ADRESS3
-Text Label 3975 5375 0    50   ~ 0
-ADRESS1
-Text Label 2575 4775 2    50   ~ 0
 ADRESS0
+Text Label 3975 5375 0    50   ~ 0
+ADRESS2
+Text Label 2575 4775 2    50   ~ 0
+ADRESS3
 $Comp
 L Miz:MCP2221A U2
 U 1 1 5DEE751E
@@ -5478,9 +5472,9 @@ Motor4_L_PWM
 Text Label 8325 7000 0    50   ~ 0
 Motor5_L_PWM
 Text Label 2575 5575 2    50   ~ 0
-Motor0_CW
+Motor5_CW
 Text Label 3975 5775 0    50   ~ 0
-Motor5_PWM
+Motor0_PWM
 Text Notes 1000 5575 0    50   ~ 0
 Brake is LOW -> Brake
 Wire Wire Line
@@ -5922,17 +5916,17 @@ Wire Wire Line
 	7025 7100 7075 7100
 Connection ~ 7075 7100
 Text Label 2575 5675 2    50   ~ 0
-Motor1_CW
+Motor4_CW
 Text Label 2575 5775 2    50   ~ 0
-Motor2_CW
-Text Label 2575 5875 2    50   ~ 0
 Motor3_CW
+Text Label 2575 5875 2    50   ~ 0
+Motor2_CW
 Text Label 7025 1450 2    50   ~ 0
 Motor0_CW
 Text Label 3975 5875 0    50   ~ 0
-Motor4_CW
+Motor0_CW
 Text Label 3975 5975 0    50   ~ 0
-Motor5_CW
+Motor1_CW
 Text Label 7025 5850 2    50   ~ 0
 Motor4_CW
 Text Label 7025 6900 2    50   ~ 0
@@ -6078,4 +6072,10 @@ Wire Wire Line
 	21375 3700 21000 3700
 Connection ~ 21375 3700
 Connection ~ 21000 3700
+Text Label 3975 5575 0    50   ~ 0
+ADRESS1
+Text Label 3975 4175 0    50   ~ 0
+Motor4_PWM
+Text Label 3975 4275 0    50   ~ 0
+Motor5_PWM
 $EndSCHEMATC
