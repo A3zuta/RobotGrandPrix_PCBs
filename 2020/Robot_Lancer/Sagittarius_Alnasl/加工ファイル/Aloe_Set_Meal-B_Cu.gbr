@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.4)-1*
-G04 #@! TF.CreationDate,2020-01-21T18:11:03+09:00*
+G04 #@! TF.CreationDate,2020-01-21T20:17:55+09:00*
 G04 #@! TF.ProjectId,Aloe_Set_Meal,416c6f65-5f53-4657-945f-4d65616c2e6b,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L2,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.4)-1) date 2020-01-21 18:11:03*
+G04 Created by KiCad (PCBNEW (5.1.4)-1) date 2020-01-21 20:17:55*
 %MOMM*%
 %LPD*%
 G04 APERTURE LIST*
@@ -10068,6 +10068,9 @@ X192500000Y-32750000D03*
 X192500000Y-34750000D03*
 X191500000Y-34750000D03*
 X191500000Y-30750000D03*
+D34*
+X141590000Y-57190000D03*
+X141600000Y-52500000D03*
 D35*
 X124376587Y-91476587D03*
 X121500000Y-86100000D03*
