@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.5)
+    (last_trace_width 0.25)
     (user_trace_width 0.2)
     (user_trace_width 0.3)
     (user_trace_width 0.5)
@@ -438,7 +438,7 @@
   (net 335 "Net-(D14-Pad2)")
   (net 336 /PA8_BLUE)
   (net 337 /PA1_TIM5_CH2)
-  (net 338 "Net-(U18-Pad5)")
+  (net 338 "Net-(U18-Pad3)")
 
   (net_class Default "これはデフォルトのネット クラスです。"
     (clearance 0.2)
@@ -752,7 +752,7 @@
     (add_net "Net-(SW8-Pad3)")
     (add_net "Net-(SW9-Pad3)")
     (add_net "Net-(U11-Pad5)")
-    (add_net "Net-(U18-Pad5)")
+    (add_net "Net-(U18-Pad3)")
     (add_net "Net-(U3-Pad10)")
     (add_net "Net-(U3-Pad8)")
     (add_net "Net-(U3-Pad9)")
@@ -2851,11 +2851,11 @@
     (fp_line (start 0 0) (end 0 12.9) (layer F.SilkS) (width 0.15))
     (fp_line (start 0 0) (end 12 0) (layer F.SilkS) (width 0.15))
     (pad 3 thru_hole circle (at 9.78 1.38 270) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
-      (net 25 MOTOR_Batt))
+      (net 338 "Net-(U18-Pad3)"))
     (pad 4 thru_hole circle (at 1.78 1.38 270) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 76 POWER_Batt))
     (pad 5 thru_hole circle (at 9.78 4.38 270) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
-      (net 338 "Net-(U18-Pad5)"))
+      (net 25 MOTOR_Batt))
     (pad 2 thru_hole circle (at 10.28 11.58 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)
       (net 78 "Net-(D56-Pad2)"))
     (pad 1 thru_hole circle (at 2.78 4.98 270) (size 1.5 1.5) (drill 0.9) (layers *.Cu *.Mask F.SilkS)

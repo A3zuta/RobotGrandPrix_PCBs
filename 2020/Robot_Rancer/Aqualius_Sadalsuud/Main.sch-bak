@@ -902,7 +902,7 @@ F 3 "~" H 18300 1425 50  0001 C CNN
 	1    18300 1425
 	1    0    0    -1  
 $EndComp
-Text GLabel 18375 2150 2    50   Input ~ 0
+Text GLabel 18375 2050 2    50   Input ~ 0
 MOTOR_Batt
 Wire Wire Line
 	15450 1150 15400 1150
@@ -1358,7 +1358,7 @@ Wire Wire Line
 Connection ~ 18050 3075
 Wire Wire Line
 	18050 3075 18025 3075
-NoConn ~ 18375 2050
+NoConn ~ 18375 2150
 Text GLabel 18425 1425 2    50   Input ~ 0
 Batt
 $Comp
