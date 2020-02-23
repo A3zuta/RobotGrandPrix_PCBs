@@ -4070,7 +4070,7 @@ F 1 "FET_P" H 20856 7705 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23W" H 20850 7850 50  0001 C CNN
 F 3 "~" H 20650 7750 50  0001 C CNN
 	1    20650 7750
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Wire Wire Line
 	21625 7550 21625 7725
@@ -4767,7 +4767,7 @@ F 1 "FET_P" H 4025 1225 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23W" H 4050 1450 50  0001 C CNN
 F 3 "~" H 3850 1350 50  0001 C CNN
 	1    3850 1350
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Text GLabel 2875 1200 2    50   Input ~ 0
 5Vc
