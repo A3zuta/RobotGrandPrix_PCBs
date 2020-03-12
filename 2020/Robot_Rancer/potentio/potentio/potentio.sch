@@ -1,0 +1,167 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Miz:LOGO_Monster #G1
+U 1 1 5E688D9A
+P 10325 1450
+F 0 "#G1" H 10306 2166 60  0000 C CNN
+F 1 "LOGO_Monster" H 10306 2060 60  0000 C CNN
+F 2 "" H 10325 1450 50  0001 C CNN
+F 3 "" H 10325 1450 50  0001 C CNN
+	1    10325 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x03 J1
+U 1 1 5E689283
+P 7250 3375
+F 0 "J1" H 7330 3417 50  0000 L CNN
+F 1 "Conn_01x03" H 7330 3326 50  0000 L CNN
+F 2 "Mizz_lib:XA_3T" H 7250 3375 50  0001 C CNN
+F 3 "~" H 7250 3375 50  0001 C CNN
+	1    7250 3375
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5E6894E5
+P 7050 3275
+F 0 "#PWR0101" H 7050 3025 50  0001 C CNN
+F 1 "GND" H 7055 3102 50  0000 C CNN
+F 2 "" H 7050 3275 50  0001 C CNN
+F 3 "" H 7050 3275 50  0001 C CNN
+	1    7050 3275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5E689992
+P 6900 3275
+F 0 "C1" V 6648 3275 50  0000 C CNN
+F 1 "0.1u" V 6739 3275 50  0000 C CNN
+F 2 "Mizz_lib:1608_WP" H 6938 3125 50  0001 C CNN
+F 3 "~" H 6900 3275 50  0001 C CNN
+	1    6900 3275
+	0    1    1    0   
+$EndComp
+Connection ~ 7050 3275
+$Comp
+L power:+3.3V #PWR0102
+U 1 1 5E689B64
+P 6750 3275
+F 0 "#PWR0102" H 6750 3125 50  0001 C CNN
+F 1 "+3.3V" H 6765 3448 50  0000 C CNN
+F 2 "" H 6750 3275 50  0001 C CNN
+F 3 "" H 6750 3275 50  0001 C CNN
+	1    6750 3275
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6750 3275 6750 3375
+Wire Wire Line
+	6750 3375 7050 3375
+Connection ~ 6750 3275
+Text Label 7050 3475 2    50   ~ 0
+VALUE
+Text Label 5300 3575 0    50   ~ 0
+VALUE
+$Comp
+L power:+3.3V #PWR0103
+U 1 1 5E689F27
+P 5300 3475
+F 0 "#PWR0103" H 5300 3325 50  0001 C CNN
+F 1 "+3.3V" H 5315 3648 50  0000 C CNN
+F 2 "" H 5300 3475 50  0001 C CNN
+F 3 "" H 5300 3475 50  0001 C CNN
+	1    5300 3475
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5E68A352
+P 5300 3675
+F 0 "#PWR0104" H 5300 3425 50  0001 C CNN
+F 1 "GND" H 5305 3502 50  0000 C CNN
+F 2 "" H 5300 3675 50  0001 C CNN
+F 3 "" H 5300 3675 50  0001 C CNN
+	1    5300 3675
+	1    0    0    -1  
+$EndComp
+$Comp
+L SamacSys_Parts:RDC501051A IC1
+U 1 1 5E68B0FD
+P 5300 3475
+F 0 "IC1" H 5750 3740 50  0000 C CNN
+F 1 "RDC501051A" H 5750 3649 50  0000 C CNN
+F 2 "Mizz_lib:RDC501051A" H 6050 3575 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/RDC501051A.pdf" H 6050 3475 50  0001 L CNN
+F 4 "Alps Alpine, RDC501051A Resistive Linear Position Sensor" H 6050 3375 50  0001 L CNN "Description"
+F 5 "3.5" H 6050 3275 50  0001 L CNN "Height"
+F 6 "688-RDC501015A" H 6050 3175 50  0001 L CNN "Mouser Part Number"
+F 7 "https://www.mouser.com/Search/Refine.aspx?Keyword=688-RDC501015A" H 6050 3075 50  0001 L CNN "Mouser Price/Stock"
+F 8 "ALPS" H 6050 2975 50  0001 L CNN "Manufacturer_Name"
+F 9 "RDC501051A" H 6050 2875 50  0001 L CNN "Manufacturer_Part_Number"
+	1    5300 3475
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 5E68C458
+P 5900 4050
+F 0 "D1" H 5893 3795 50  0000 C CNN
+F 1 "LED" H 5893 3886 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 5900 4050 50  0001 C CNN
+F 3 "~" H 5900 4050 50  0001 C CNN
+	1    5900 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+3.3V #PWR0105
+U 1 1 5E68CAC2
+P 5700 4050
+F 0 "#PWR0105" H 5700 3900 50  0001 C CNN
+F 1 "+3.3V" H 5715 4223 50  0000 C CNN
+F 2 "" H 5700 4050 50  0001 C CNN
+F 3 "" H 5700 4050 50  0001 C CNN
+	1    5700 4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 4050 5700 4050
+$Comp
+L Device:R R1
+U 1 1 5E68D406
+P 6200 4050
+F 0 "R1" V 5993 4050 50  0000 C CNN
+F 1 "330" V 6084 4050 50  0000 C CNN
+F 2 "Mizz_lib:1608_WP" V 6130 4050 50  0001 C CNN
+F 3 "~" H 6200 4050 50  0001 C CNN
+	1    6200 4050
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 5E68D5B4
+P 6350 4050
+F 0 "#PWR0106" H 6350 3800 50  0001 C CNN
+F 1 "GND" H 6355 3877 50  0000 C CNN
+F 2 "" H 6350 4050 50  0001 C CNN
+F 3 "" H 6350 4050 50  0001 C CNN
+	1    6350 4050
+	1    0    0    -1  
+$EndComp
+NoConn ~ 4400 3475
+$EndSCHEMATC
