@@ -1,6 +1,6 @@
-update=2020/01/21 2:24:19
+update=2020/04/18 12:22:15
 version=1
-last_client=kicad
+last_client=eeschema
 [general]
 version=1
 RootSch=
@@ -249,7 +249,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=C:/Users/3Zuta/OneDrive/デスクトップ/RobotGrandPrix/2020/Robot_Lancer/アロエ定食/回路図/
+PlotDirectoryName=C:/Users/3Zuta/Documents/RobotGrandPrix_PCBs/2020/Robot_Rancer/Sagittarius_Alnasl/回路図/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew

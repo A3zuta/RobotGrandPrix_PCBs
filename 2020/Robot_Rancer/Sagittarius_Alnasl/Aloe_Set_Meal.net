@@ -1,8 +1,8 @@
 (export (version D)
   (design
-    (source C:\Users\3Zuta\OneDrive\デスクトップ\RobotGrandPrix\2020\Robot_Rancer\Sagittarius_Alnasl\Aloe_Set_Meal.sch)
-    (date "2020/02/23 16:59:45")
-    (tool "Eeschema (5.1.4)-1")
+    (source C:\Users\3Zuta\Documents\RobotGrandPrix_PCBs\2020\Robot_Rancer\Sagittarius_Alnasl\Aloe_Set_Meal.sch)
+    (date "2020/06/29 3:12:12")
+    (tool "Eeschema (5.1.5)-3")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title)
@@ -1692,7 +1692,13 @@
       (datasheet ~)
       (libsource (lib Device) (part Q_PMOS_GSD) (description "P-MOSFET transistor, gate/source/drain"))
       (sheetpath (names /) (tstamps /))
-      (tstamp 5E62C9E6)))
+      (tstamp 5E62C9E6))
+    (comp (ref U31)
+      (value LOGO)
+      (footprint Mizz_lib:kodani_miconCar_30x19_silk)
+      (libsource (lib Miz) (part LOGO) (description ""))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5F0C6DB9)))
   (libparts
     (libpart (lib 74xx) (part 74LS02)
       (aliases
@@ -2291,9 +2297,9 @@
     (library (logical MCU_ST_STM32F4)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/MCU_ST_STM32F4.lib"))
     (library (logical Miz)
-      (uri C:/Users/3Zuta/OneDrive/デスクトップ/Ki-Cad_Lib/Mizz_lib.pretty/Miz.lib))
+      (uri C:/Users/3Zuta/Documents/KiCAD/myKicadLibrary/Mizz_lib.pretty/Miz.lib))
     (library (logical SamacSys_Parts)
-      (uri C:/Users/3Zuta/OneDrive/デスクトップ/Ki-Cad_Lib/Mizz_lib.pretty/SamacSys_Parts.lib))
+      (uri C:/Users/3Zuta/Documents/KiCAD/myKicadLibrary/Mizz_lib.pretty/SamacSys_Parts.lib))
     (library (logical Switch)
       (uri "C:\\Program Files\\KiCad\\share\\kicad\\library/Switch.lib")))
   (nets
