@@ -1,4 +1,4 @@
-update=2020/01/23 10:53:03
+update=2022/03/09 18:52:29
 version=1
 last_client=kicad
 [general]
@@ -253,7 +253,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=C:/Users/3Zuta/OneDrive/デスクトップ/RobotGrandPrix/2020/Robot_Rancer/Aqualius_Sadalsuud/回路図/
+PlotDirectoryName=C:/Users/3Zuta/Documents/RobotGrandPrix_PCBs/2020/Robot_Rancer/Aqualius_Sadalsuud_for_KITRP/回路図/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
