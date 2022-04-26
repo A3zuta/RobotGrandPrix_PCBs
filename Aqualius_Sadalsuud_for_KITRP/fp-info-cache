@@ -1,4 +1,4 @@
-19192076391879670
+19210450014290870
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -56329,6 +56329,20 @@ B4B-ZR
 4
 4
 Mizz_lib
+BLDC_silk_10x9
+
+
+0
+0
+0
+Mizz_lib
+BLDC_silk_15x14
+
+
+0
+0
+0
+Mizz_lib
 Battery_Killer_logo
 
 
@@ -56554,6 +56568,13 @@ EC12PLRGBSDVBF
 8
 Mizz_lib
 Enc_19.3x7.0_silk
+
+
+0
+0
+0
+Mizz_lib
+EtherCAT_900dpi
 
 
 0
@@ -57358,6 +57379,13 @@ Integrated Circuit
 17
 17
 Mizz_lib
+QFP50P1200X1200X120-65N
+
+
+0
+65
+65
+Mizz_lib
 QR_NamePlate_18x18_Silk
 
 
@@ -57518,6 +57546,13 @@ SOD-123
 0
 2
 2
+Mizz_lib
+SOIC-5_3.9x4.9mm_Pitch1.27mm
+5-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+5
+5
 Mizz_lib
 SOIC-8_3.9x4.9mm_P1.27mm
 SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -57756,6 +57791,20 @@ TUSB1210BRHBT
 0
 49
 34
+Mizz_lib
+Three-phase_AC_silk_30x11
+
+
+0
+0
+0
+Mizz_lib
+Three-phase_AC_silk_35x13
+
+
+0
+0
+0
 Mizz_lib
 Turtle_Logo_15.0x15.0
 
@@ -58170,6 +58219,13 @@ ZH_6T
 6
 6
 Mizz_lib
+aruino_logo_silk_10x5
+
+
+0
+0
+0
+Mizz_lib
 bwc_picture_silk_15x11
 
 
@@ -58185,6 +58241,27 @@ doiLab_logo_7.5x7.5_silk
 0
 Mizz_lib
 doiLab_logo_15x15_silk
+
+
+0
+0
+0
+Mizz_lib
+donamaz_10x8_silk
+
+
+0
+0
+0
+Mizz_lib
+donamaz_20x16_silk
+
+
+0
+0
+0
+Mizz_lib
+donamaz_30x24_silk
 
 
 0
